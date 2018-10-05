@@ -1,0 +1,15 @@
+table {
+    padding: 100px;
+    text-align: center;
+}
+
+table th{
+    padding-right: 40px;
+}
+table tr{
+    padding-top: 10px;
+}
+table img{
+    height: 100px;
+    weight: 100px;
+}
