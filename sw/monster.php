@@ -126,6 +126,12 @@
         <th>Swift/Focus</th>
         <th>SPD / Crit / HP%</th>
     </tr>
+    <tr>
+        <th><img src="image/Yen.png"</th>
+        <th>Yen</th>
+        <th>Swift/Blade</th>
+        <th>Spd / Crit / Att%</th>
+    </tr>
 </table>
 </body>
 </html>
