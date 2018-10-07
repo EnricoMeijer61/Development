@@ -132,6 +132,12 @@
         <th>Swift/Blade</th>
         <th>Spd / Crit / Att%</th>
     </tr>
+    <tr>
+        <th><img src="image/Sonnet.png"</th>
+        <th>Sonnet</th>
+        <th>Swift/Energy</th>
+        <th>Spd / HP% / HP%</th>
+    </tr>
 </table>
 </body>
 </html>
